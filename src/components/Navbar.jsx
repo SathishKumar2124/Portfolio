@@ -11,8 +11,8 @@ const Navbar = () => {
             <h1 className='text-2xl font-semibold tracking-wider mx-2 w-10'>SK</h1>
         </div>
         <div className='m-8 flex items-center justify-center gap-4'>
-            <FaLinkedin />
-            <FaGithub />
+             <a href="https://www.linkedin.com/in/sathishkumar2124/" target="_blank"><FaLinkedin /></a>
+            <a href="https://github.com/SathishKumar2124/" target="_blank"><FaGithub /></a> 
             <FaInstagram />
             <FaSquareXTwitter />
         </div>
